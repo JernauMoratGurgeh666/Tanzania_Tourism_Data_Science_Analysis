@@ -1,4 +1,4 @@
-# 🦁 Repo for Tanzania ML Project – by ELIAS KOULOURES
+# 🦁 Tanzania Tourism ML Project – by ELIAS KOULOURES
 
 This repo is for Tanzania Tourism prediction model.
 
